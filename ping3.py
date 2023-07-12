@@ -63,4 +63,4 @@ print("IP Address\tAverage")
 for result in results:
     print(f"{result['IP Address']}\t{result['Average']}")
     
-print("DISIMPAN hasil4.txt")
+print("DISIMPAN -->> hasil3.txt")
