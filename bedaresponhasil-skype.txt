@@ -1,0 +1,205 @@
+{'Host': 'b.config.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'userstore-euwe-04-prod-aks.userstore.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-asse-09.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-asse-07.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-asse-05.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-asse-06.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-asse-08.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'int-client-ss.msg.skype.com', 'Status': 'HTTP/1.1 401 {"errorCode":911,"errorSubCode":1,"errorDescription":"Authentication failed."}'}
+{'Host': 'b-usea-api.callrecorder.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'homephone.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'cc-euno-09.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'mrrcountries.cdn.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-uswe-09.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'api.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'config.edge.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'download.skype.com', 'Status': 'HTTP/1.0 400 Bad Request'}
+{'Host': 's2s.config.skype.com', 'Status': 'HTTP/1.1 403 Forbidden'}
+{'Host': 'support.skype.com', 'Status': 'HTTP/1.0 400 Bad Request'}
+{'Host': 'cc-auea-05.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'ecs.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'cc-jpea-07.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-uswe-06.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 's-0005-office.config.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'conv-usea2-08.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-usea-01-msit-aks.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-usea-09.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'b-broker-uswe-01.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-euwe-09.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-euno-06.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-euwe-09.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-asse-08.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-ussc-08.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'a-broker-euno-01.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-usea-06.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'ic3-voiceauth-scus.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'api.teams.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'broker-jpwe-07.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'do.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'df.contacts.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'broker-frce-08.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'int-server-ss.msg.skype.com', 'Status': 'HTTP/1.1 400 This service does not support WebSocket connections.'}
+{'Host': 'b-broker-euno-01.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'latest-join.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'web.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'conv-usea2-07.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'userstore-euwe-03-prod-aks.userstore.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'pilot.prod.registrar.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'a-uswe-api.callrecorder.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'cc-jpwe-05.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'a-cace-api.callrecorder.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'broker-jpwe-05.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'preview.web.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'conv-uswe-08.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-uswe-07.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-uswe-09.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'a-broker-euwe-01.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'spacetest1.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'cc-euno-05.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'c-cace-api.callrecorder.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'a.config.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-frce-06.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'clientlogin.cdn.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'l-0007.config.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'cc-jpea-06.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'edge.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'cc-euwe-02-prod-aks.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'notification-hub.skype.com', 'Status': 'HTTP/1.1 503 Service Unavailable'}
+{'Host': 'facebook.skype.com', 'Status': 'HTTP/1.0 400 Bad Request'}
+{'Host': 'msgapi.skype.com', 'Status': 'HTTP/1.1 401 {"errorCode":911,"errorSubCode":1,"errorDescription":"Authentication failed."}'}
+{'Host': 'img.teams.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'ic3-voiceauth-eus.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'ic3-voiceauth-wus.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'email.translator.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'devblog.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'devspaces.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'cc-uswe-01-msit-aks.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-frce-07.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'ic3-voiceauth-emea.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'cc-jpea-08.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-usea-07.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'partners.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'pilot.edge.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'dogfood-join.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'cc-euno-06.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'feedback.skype.com', 'Status': 'HTTP/1.1 302 Found'}
+{'Host': 'broker-frce-10.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-frce-08.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'ic3-voiceauth-noam.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'contacts.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'heartbeat.skype.com', 'Status': 'HTTP/1.0 400 Bad Request'}
+{'Host': 'conv-euno-08.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-asse-07.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-ussc-07.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-ussc-08.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-ussc-09.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-usea-05.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'b-broker-euwe-01.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-uswe-02-sdf-aks.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-frce-09.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'highway101.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-sano-09.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-usea-06.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-frce-06.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-jpea-09.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'ic3-voiceauth-apac.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'amer-client-ss.msg.skype.com', 'Status': 'HTTP/1.1 401 {"errorCode":911,"errorSubCode":1,"errorDescription":"Authentication failed."}'}
+{'Host': 'a-broker-asse-01.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'view.email.skype.com', 'Status': 'HTTP/1.1 302 Found'}
+{'Host': 'swx.cdn.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'swc.cdn.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'use.config.skype.com', 'Status': 'HTTP/1.1 403 Forbidden'}
+{'Host': 'cc-uswe-05.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'webhook.teams.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'latest-swc.cdn.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'registrar-rr.prod.registrar.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'spacetest6.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'broker-jpwe-06.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'fp.config.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'cc-usea-02-msit-aks.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-euwe-07.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-uswe-06.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'latest-swx.cdn.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'api.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'spacetest7.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'ic3-voiceauth.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'a-flightproxy-usea2-01.flightproxy.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-euwe-08.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'campaigns.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'configpush.config.skype.com', 'Status': 'HTTP/1.1 403 Forbidden'}
+{'Host': 'api2.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'api3.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'etag.prod.registrar.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-euwe-02-prod-aks.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'sdk.cdn.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'dev.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'join.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'jobs.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-frce-05.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'www.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'cc-euno-08.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-euwe-05.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'messagingexporter-staging.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-uswe-08.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'blogs.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'conv-usea-02-prod-aks.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-usea-01-prod-aks.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-usea-04-prod-aks.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-jpea-05.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'ic3-voiceauth-weu.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'cc-jpwe-06.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'etag-rr.prod.registrar.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'brbv2.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'dogfood.pnh.skype.com', 'Status': 'HTTP/1.1 503 Service Unavailable'}
+{'Host': 'a-broker-usea2-01.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-sano-07.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-jpwe-09.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-euwe-05-prod-aks.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-jpea-09.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-jpea-08.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-jpea-06.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-jpea-07.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'conv-jpea-05.conv.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'dev.web.skype.com', 'Status': 'HTTP/1.1 302 Found'}
+{'Host': 'userstore-uswe-01-prod-aks.userstore.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-usea-01-sdf-aks.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'dogfood.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-euno-07.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 's-0005-teams.config.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'broker-sano-08.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'userstore-usea2-01-prod-aks.userstore.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-frce-05.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'spacetest8.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'repo.skype.com', 'Status': 'HTTP/1.0 400 Bad Request'}
+{'Host': 'ic3-voiceauth-wia.skype.com', 'Status': 'HTTP/1.1 404 Site Not Found'}
+{'Host': 'b-uswe-api.callrecorder.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'api.ecs.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'prod.registrar.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'a-usea-api.callrecorder.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'settings.teams.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'a-broker-uswe-01.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-usea2-08.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-usea2-05.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-usea2-07.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-usea2-09.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-jpea-05.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-euno-09.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-euwe-06.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-auea-06.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'api.userstore.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-usea-07.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'downloads.skype.com', 'Status': 'HTTP/1.0 400 Bad Request'}
+{'Host': 'helperapi.skype.com', 'Status': 'HTTP/1.1 403 Forbidden'}
+{'Host': 'broker-uswe-05.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-frce-07.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'b-cace-api.callrecorder.skype.com', 'Status': 'HTTP/1.1 301 Moved Permanently'}
+{'Host': 'broker-ussc-06.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'broker-asse-06.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-euwe-01-prod-aks.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'b-broker-usea2-01.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'teams.skype.com', 'Status': 'HTTP/1.1 400 Bad Request'}
+{'Host': 'broker-jpea-07.broker.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-euwe-06.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'flighting.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}
+{'Host': 'cc-uswe-07.cc.skype.com', 'Status': 'HTTP/1.1 404 Not Found'}

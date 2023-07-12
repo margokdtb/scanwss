@@ -1,0 +1,7 @@
+app.onlymega.com
+cdn.onlymega.com
+mail.onlymega.com
+onlymega.com
+stats.onlymega.com
+support.onlymega.com
+www.onlymega.com
