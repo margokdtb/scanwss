@@ -35,5 +35,5 @@ File tersimpan di download/scanws/scanws
 
 Note sebelum scan file xyz n hasil hapus dl
 
-python ping3.py
-hasil di file hasil3.txt
+python ping.py
+hasil di fileping-hasil.txt
