@@ -1,5 +1,4 @@
 onlymega.com
-stats.onlymega.com
 app.onlymega.com
 www.onlymega.com
 support.onlymega.com

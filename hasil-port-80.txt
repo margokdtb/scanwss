@@ -1,0 +1,6 @@
+mail.onlymega.com - 9.00
+app.onlymega.com - 9.00
+www.onlymega.com - 9.00
+support.onlymega.com - 9.00
+cdn.onlymega.com - 9.00
+onlymega.com - 10.00

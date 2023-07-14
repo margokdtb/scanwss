@@ -14,7 +14,7 @@ def tcping(host, port):
         return round(elapsed_time, 2)
     except socket.error:
         return None
-        
+
 def ping_host(host):
     response_time_80 = tcping(host, 80)
     response_time_443 = tcping(host, 443)
@@ -30,7 +30,7 @@ def ping_host(host):
     result_list.append((host, 443, response_time_443))
 
 host_list = []
-# Baca sumber dari file xyz3.txt
+# Baca sumber dari file hasil2.txt
 with open("x2.txt", "r") as file:
     for line in file:
         host_list.append(line.strip())
@@ -47,13 +47,34 @@ for host in host_list:
 # Tunggu semua thread selesai
 for t in threads:
     t.join()
-    
 
-# Simpan hasil ping ke dalam file pjng-hasil.txt
-with open("ping-hasil.txt", "w") as file:
-    for result in result_list:
+# Urutkan hasil berdasarkan response_time secara ascending
+result_list.sort(key=lambda x: x[2])
+
+port_80_results = []
+port_443_results = []
+
+for result in result_list:
+    host, port, response_time = result
+    if port == 80:
+        port_80_results.append(result)
+    elif port == 443:
+        port_443_results.append(result)
+
+# Simpan hasil ping port 80 ke dalam file ping-hasil-port-80.txt
+with open("hasil-port-80.txt", "w") as file:
+    for result in port_80_results:
         host, port, response_time = result
         if response_time is not None:
-            file.write(f"{host} - {response_time*100:.2f} - {port} \n")
+            file.write(f"{host} - {response_time*100:.2f}\n")
         else:
-            file.write(f"{host} - {port} - Tidak dapat dijangkau\n")
+            file.write(f"{host} - Tidak dapat dijangkau\n")
+
+# Simpan hasil ping port 443 ke dalam file ping-hasil-port-443.txt
+with open("hasil-port-443.txt", "w") as file:
+    for result in port_443_results:
+        host, port, response_time = result
+        if response_time is not None:
+            file.write(f"{host} - {response_time*100:.2f}\n")
+        else:
+            file.write(f"{host} - Tidak dapat dijangkau\n")

@@ -1,4 +1,6 @@
-import c1
-import c2
+print("\n PING DATA\n")
 
-print("Data disimpan di PING-HASIL.txt")
+import c1
+import c6
+
+print("\nData disimpan di hasil-port-80.txt dan hasil-port-443.txt \n\n")

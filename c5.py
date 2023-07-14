@@ -30,8 +30,8 @@ def ping_host(host):
     result_list.append((host, 443, response_time_443))
 
 host_list = []
-# Baca sumber dari file xyz3.txt
-with open("x2.txt", "r") as file:
+# Baca sumber dari file hasil2.txt
+with open("hasil2.txt", "r") as file:
     for line in file:
         host_list.append(line.strip())
 
@@ -48,8 +48,10 @@ for host in host_list:
 for t in threads:
     t.join()
     
+# Urutkan hasil berdasarkan response_time secara ascending
+result_list.sort(key=lambda x: x[2])
 
-# Simpan hasil ping ke dalam file pjng-hasil.txt
+# Simpan hasil ping ke dalam file ping-hasil.txt
 with open("ping-hasil.txt", "w") as file:
     for result in result_list:
         host, port, response_time = result
@@ -57,3 +59,4 @@ with open("ping-hasil.txt", "w") as file:
             file.write(f"{host} - {response_time*100:.2f} - {port} \n")
         else:
             file.write(f"{host} - {port} - Tidak dapat dijangkau\n")
+

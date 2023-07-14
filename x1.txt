@@ -1,0 +1,6 @@
+{'Host': 'onlymega.com', 'Status': 'HTTP/1.1 101 Switching Protocol'}
+{'Host': 'app.onlymega.com', 'Status': 'HTTP/1.1 101 Switching Protocol'}
+{'Host': 'www.onlymega.com', 'Status': 'HTTP/1.1 101 Switching Protocol'}
+{'Host': 'support.onlymega.com', 'Status': 'HTTP/1.1 101 Switching Protocol'}
+{'Host': 'cdn.onlymega.com', 'Status': 'HTTP/1.1 101 Switching Protocol'}
+{'Host': 'mail.onlymega.com', 'Status': 'HTTP/1.1 101 Switching Protocol'}
