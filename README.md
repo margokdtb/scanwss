@@ -1,3 +1,3 @@
-Sunfinder dan scan bug websoket
+Subfinder dan scan bug websoket
 
 Untuk instalasi dan detail cek tutorial.Txt
