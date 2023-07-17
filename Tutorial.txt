@@ -14,28 +14,20 @@ pkg install python-pip
 
 pip install requests loguru multithreading
 
-cd storage/downloads/scanws/scanws
+git clone https://github.com/margokdtb/scanwss.git
+
+cd storage/scanws
 ls
 pip install -r requirement.txt
 Exit
 
-Menggunakan
-cd storage/downloads/scanws/scanws
-ls
-python findthesub.py -d onlymega.com -o xyz.txt
-
-Ganti ke jaringan paket data
-
-python scanws.py -f xyz.txt -o hasil.txt
-
-File tersimpan di download/scanws/scanws
-
-Note sebelum scan file xyz n hasil hapus dl
-
-TUTOR CEPAT
-GANTI PAKET DATA
+MENGGUNAKAN
 
 clear
 cd
 cd storage/scanws
 python mulai.py
+
+
+Apabila ingin cek ping nya saja
+python ping.py

@@ -31,7 +31,7 @@ def ping_host(host):
 
 host_list = []
 # Baca sumber dari file hasil2.txt
-with open("hasil2.txt", "r") as file:
+with open("x2.txt", "r") as file:
     for line in file:
         host_list.append(line.strip())
 

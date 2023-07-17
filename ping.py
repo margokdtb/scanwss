@@ -1,6 +1,6 @@
 print("\n PING DATA\n")
 
 import c1
-import c6
+import c4
 
-print("\nData disimpan di hasil-port-80.txt dan hasil-port-443.txt \n\n")
+print("\nHasil Ping Disimpan Ke -> hasil.txt \n\n")
